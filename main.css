@@ -1,0 +1,39 @@
+body {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color:#33c8ff;
+    font-size: 128px;
+     font-family: monospace;
+   
+}
+
+.container div{
+    display: inline;
+    padding: auto, 10px;
+    font-weight: 100;
+    
+    }
+.container{
+    position: relative;
+}
+
+.sec{
+    font-weight: 800;
+}
+
+h5{
+    display: inline;
+    color: rgba(255, 255, 255, 0.65);
+    font-size: 90px;
+    margin-top: 20px;
+    
+}
+
+.PM{
+    color:rgba(255, 255, 255, 0.15);
+    font-size: 68px;
+}
+
