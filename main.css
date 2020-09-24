@@ -6,7 +6,8 @@ body {
     background-color: black;
     color:#33c8ff;
     font-size: 128px;
-     font-family: monospace;
+    font-family: monospace;
+    transform : scale(1.5);
    
 }
 
